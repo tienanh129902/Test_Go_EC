@@ -1,5 +1,7 @@
 # Test_Go_EC
 
+## Fork this repo and show us your development progress via a Pull Request
+
 ## Implement the function executeParallel so that:
 
   1. Functions received as the second argument should be executed in parallel.
